@@ -1,3 +1,3 @@
 # Virtual-Pet
 Project to create a virtual pet Shiba Inu in AR using Unity, Vuforia and TurtleBot controlled by ROS
-[![Watch the video](https://drive.google.com/file/d/1c2FMjR203VKsPJb0GVeZ9a_aiOpXD8da/view?usp=sharing)
+[![Watch the video](https://i.ytimg.com/vi/bbxjMxZ5cxI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDhRyrq1dCtHgCntC6qxuwpr9yMyA)](https://youtu.be/bbxjMxZ5cxI)
